@@ -5,5 +5,5 @@ module.exports = function(deployer){
     deployer.deploy(Takacoin,initialSupply);
 }
 
-// # hoge
-//  hoge 2
+// # piyo
+//  piyo 2
